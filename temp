@@ -1,0 +1,1 @@
+For a high-performance project like QuestDB—where builds might span multiple languages and layers (Java, Rust, C++, SQL)—streamlining CI is huge. Especially for an open-source contributor like you, Om, showcasing this kind of detail and optimization insight could really shine in a hackathon presentation or a Flipkart GRiD résumé bullet.
